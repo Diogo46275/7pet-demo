@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:"/7pet-demo/_next/static/chunks/2xe-9b03q-_hq.js"
+3:"/7pet-demo/_next/static/chunks/3pchgp4ix4x7l.js"
+4:I[2971,["$2","$3"],"Header"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:"/7pet-demo/_next/static/chunks/0yq91xi8wn5gx.js"
+8:I[22016,["$2","$3","$7"],""]
+9:"CompraRapidaGlobal"
+a:I[91172,["$2","$3"],"$9"]
+b:"ExperienciaGlobal"
+c:I[33025,["$2","$3"],"$b"]
+1c:"ViewportBoundary"
+1d:I[97367,["$2","$3"],"$1c"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2","$3"],"$1e"]
+20:"$Sreact.suspense"
+:HL["/7pet-demo/_next/static/chunks/0uax6lsc6h3y6.css","style"]
+e:X
+11:X
+11:C
+14:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"children":[["$","nav",null,{"aria-label":"Você está em","className":"text-sm text-suave","children":["$L15"," ","/ ","$L16"]}],"$L17","$L18"]}],["$L19"],"$L1a"]}],"p":"$@1b","v":null,"s":"$e"}}]]
+12:[["children",{"s":{"n":"slug","t":"d","k":"passeio","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@13","v":"$11","s":"$e"},"c":"$Q14"}]]
+f:[["children",{"s":"categoria","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@10","v":"$11","s":"$e"},"c":"$Q12"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/7pet-demo/_next/static/chunks/0uax6lsc6h3y6.css","precedence":"next"}],["$","script","script-0",{"src":"/7pet-demo/_next/static/chunks/2xe-9b03q-_hq.js","async":true}],["$","script","script-1",{"src":"/7pet-demo/_next/static/chunks/3pchgp4ix4x7l.js","async":true}]],["$","html",null,{"lang":"pt-BR","data-tema":"7pet","className":"h-full antialiased","children":["$","body",null,{"className":"flex min-h-full flex-col","children":[["$","a",null,{"href":"#conteudo","className":"sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-papel focus:p-3","children":"Ir para o conteúdo"}],["$","$L4",null,{"categorias":[{"slug":"camas","nome":"Camas","total":2},{"slug":"guias","nome":"Guias","total":31},{"slug":"linha-anti-puxao","nome":"Linha anti-puxão","total":8},{"slug":"materiais-k9","nome":"Materiais K9","total":23},{"slug":"colares-e-coleiras","nome":"Colares e Coleiras","total":6},{"slug":"cintos-de-seguranca","nome":"Cintos De Segurança","total":9},{"slug":"passeio","nome":"Passeio","total":2},{"slug":"acessorios","nome":"Acessórios","total":8}]}],["$","main",null,{"id":"conteudo","className":"mx-auto w-full max-w-7xl flex-1 px-4 py-6","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","div",null,{"className":"py-16 text-center","children":[["$","h1",null,{"className":"text-3xl font-extrabold","children":"Página não encontrada"}],["$","p",null,{"className":"mt-2 text-suave","children":"O endereço pode ter mudado ou o produto não está mais disponível."}],["$","$L8",null,{"href":"/","className":"mt-5 inline-block rounded-lg bg-marca-escura px-6 py-3 font-semibold text-sobre-marca hover:bg-hover","children":"Voltar para o início"}]]}],[]]}]}],["$","footer",null,{"className":"mt-16 border-t border-linha bg-fundo","children":["$","div",null,{"className":"mx-auto grid max-w-7xl gap-8 px-4 py-10 sm:grid-cols-3","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-lg font-bold","children":"7Pet"}],["$","p",null,{"className":"mt-2 text-sm text-suave","children":"Equipamentos de passeio, segurança e adestramento de cães."}]]}],["$","div",null,{"children":[["$","p",null,{"className":"font-semibold","children":"Categorias"}],["$","ul",null,{"className":"mt-2 space-y-1 text-sm","children":[["$","li","camas",{"children":["$","$L8",null,{"href":"/categoria/camas","className":"text-suave hover:text-marca-escura","children":"Camas"}]}],["$","li","guias",{"children":["$","$L8",null,{"href":"/categoria/guias","className":"text-suave hover:text-marca-escura","children":"Guias"}]}],["$","li","linha-anti-puxao",{"children":["$","$L8",null,{"href":"/categoria/linha-anti-puxao","className":"text-suave hover:text-marca-escura","children":"Linha anti-puxão"}]}],["$","li","materiais-k9",{"children":["$","$L8",null,{"href":"/categoria/materiais-k9","className":"text-suave hover:text-marca-escura","children":"Materiais K9"}]}],["$","li","colares-e-coleiras",{"children":["$","$L8",null,{"href":"/categoria/colares-e-coleiras","className":"text-suave hover:text-marca-escura","children":"Colares e Coleiras"}]}],["$","li","cintos-de-seguranca",{"children":["$","$L8",null,{"href":"/categoria/cintos-de-seguranca","className":"text-suave hover:text-marca-escura","children":"Cintos De Segurança"}]}],["$","li","passeio",{"children":["$","$L8",null,{"href":"/categoria/passeio","className":"text-suave hover:text-marca-escura","children":"Passeio"}]}],["$","li","acessorios",{"children":["$","$L8",null,{"href":"/categoria/acessorios","className":"text-suave hover:text-marca-escura","children":"Acessórios"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"font-semibold","children":"Sobre esta versão"}],["$","p",null,{"className":"mt-2 text-sm text-suave","children":"Protótipo de demonstração. Os produtos e fotos vieram do site atual em 23/11/2026. Pedidos, frete e pagamentos são simulados e nenhuma cobrança é feita."}]]}]]}]}],["$","$La",null,{}],["$","$Lc",null,{}]]}]}]]}],"p":"$@d","v":null,"s":"$e"},"c":"$Qf"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0a1120"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Passeio | 7Pet"}],"$L21","$L22","$L23","$L24"]}]}],null]}],null]}],"p":"$@25","v":null,"s":"$e"}},"a":"$@26","u":"$@27","b":"4ywKVn4AGG59Byt4Ry0vb"}
+28:I[61697,["$2","$3","$7"],"ListaCategoria"]
+29:I[97367,["$2","$3"],"OutletBoundary"]
+2b:I[27201,["$2","$3"],"IconMark"]
+15:["$","$L8",null,{"href":"/","className":"hover:text-marca-escura","children":"Início"}]
+16:["$","span",null,{"className":"text-texto","children":"Passeio"}]
+17:["$","h1",null,{"className":"mt-2 text-3xl font-extrabold","children":"Passeio"}]
+18:["$","div",null,{"className":"mt-4","children":["$","$L28",null,{"itens":[{"slug":"colete-tatico-alta-performance-para-caes","sku":"DFZD8Y56L","nv":2,"nome":"Colete Tático Alta Performance Para Cães","categorias":["materiais-k9","passeio"],"precoPix":141.46,"precoCheio":148.9,"variavel":false,"disponivel":true,"foto":{"src":"/7pet-demo/img/DFZD8Y56L/capa.webp","srcSet":"/7pet-demo/img/DFZD8Y56L/capa-m.webp 400w, /7pet-demo/img/DFZD8Y56L/capa.webp 800w","w":800,"h":800,"blur":"/7pet-demo/img/DFZD8Y56L/capa-m.webp","mini":"/7pet-demo/img/DFZD8Y56L/capa-xs.webp"},"fotoBaixa":true,"rotulos":"G M"},{"slug":"kit-cinto-de-seguranca-para-gatos-regulavel-peitoral","sku":"YHG36237K","nv":12,"nome":"Kit cinto de Segurança para Gatos regulável + Peitoral","categorias":["cintos-de-seguranca","passeio"],"precoPix":42.66,"precoCheio":44.9,"variavel":false,"disponivel":true,"foto":{"src":"/7pet-demo/img/YHG36237K/capa.webp","srcSet":"/7pet-demo/img/YHG36237K/capa-m.webp 400w, /7pet-demo/img/YHG36237K/capa.webp 800w","w":800,"h":800,"blur":"/7pet-demo/img/YHG36237K/capa-m.webp","mini":"/7pet-demo/img/YHG36237K/capa-xs.webp"},"fotoBaixa":false,"rotulos":"Blush Pink / M Lavender Pink / G Preto / G Vermelho / M Vermelho / P Lavender Rose / P Blue / P Blue Ribbon / M Vermelho / G Blue / G Preto / M Preto / P"}]}]}]
+19:["$","script","script-0",{"src":"/7pet-demo/_next/static/chunks/0yq91xi8wn5gx.js","async":true}]
+1a:["$","$L29",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@2a"}]}]
+21:["$","meta","1",{"name":"description","content":"Passeio: 2 produtos com preço especial no Pix."}]
+22:["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]
+23:["$","link","3",{"rel":"icon","href":"/7pet-demo/icon.png"}]
+24:["$","$L2b","4",{}]
+e:300
+2a:null
+27:true
+e:C
+26:0
+13:"$undefined"
+10:"$undefined"
+d:"$undefined"
+25:"$undefined"
+1b:"$undefined"
